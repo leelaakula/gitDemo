@@ -1,6 +1,6 @@
 #Demo Project ReadMe
 
-This is a simple reading file
+This is a simple reading file which would cause a conflict in master branch
 
 ##Heading 
 Checking for changes 
